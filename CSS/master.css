@@ -1,0 +1,67 @@
+html {
+  background: url(../images/exoplanet-wallpaper-3554x1999.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+  background: rgba(0,0,0,0);
+}
+
+h1 {
+    font-weight: 300;
+    letter-spacing: 1.5px;
+    font-size: 40px;
+}
+
+h3 {
+    font-weight: 100;
+    letter-spacing: 1px;
+    font-size: 18px;
+    line-height: normal;
+}
+
+.container-fluid{
+	 margin-top:50px;
+	 color: white;
+	 background: rgba(0,0,0,0.0);
+ }
+
+.navbar{
+      margin-bottom: 0;
+      border-radius: 0;
+      background: rgba(0,0,0,0.5);
+}
+
+.navbar-brand{
+  color:white;
+}
+
+.navbar-brand:focus, .navbar-brand:hover, .navbar-brand:active a{
+  opacity: 0.5;
+  color:white;
+}
+
+.navbar-header{
+  background: rgba(0,0,0,0.6);
+  color:white;
+}
+
+.linebreak {
+    width: auto;
+    border-top: 1px solid white;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.socialicons {
+	font-size: 50px;
+	letter-spacing: 10;
+}
+
+.socialicons a{
+	color: white;
+}
